@@ -1,1 +1,1 @@
-# lfc-vehicle-colour-editor
+# LFC Vehicle Colour Editor
