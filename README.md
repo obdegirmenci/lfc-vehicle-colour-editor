@@ -1,6 +1,8 @@
 # LFC Vehicle Colour Editor
  
 A lightweight desktop tool for reading and writing RGB colour values stored in `.col` binary files used by a racing simulation game. Supports both **Windows** and **Linux**.
+
+<img width="630" height="830" alt="preview" src="https://github.com/user-attachments/assets/227dd213-6473-47b7-abfc-4a2e11f2a739" />
  
 ---
  
@@ -25,19 +27,14 @@ No Python installation required. A pre-built executable is provided for both pla
  
 ### Windows
  
-1. Download `LFC-VehicleColourEditor-win64.zip`.
-2. Extract the archive to any folder (e.g. `Desktop`).
-3. Double-click `LFC-VehicleColourEditor.exe` to launch.
+1. Download `LFC-VehicleColourEditor.exe`.
+2. Double-click `LFC-VehicleColourEditor.exe` to launch.
 > The executable is a single file. You can place it anywhere and delete it just as easily.
  
 ### Linux
  
-1. Download `LFC-VehicleColourEditor-linux-x86_64.tar.gz`.
-2. Extract the archive:
-   ```bash
-   tar -xzf LFC-VehicleColourEditor-linux-x86_64.tar.gz
-   ```
-3. Run the binary executable:
+1. Download `LFC-VehicleColourEditor`.
+2. Run the binary executable:
    ```bash
    ./LFC-VehicleColourEditor
    ```
