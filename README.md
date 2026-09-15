@@ -2,7 +2,7 @@
  
 A lightweight desktop tool for reading and writing RGB colour values stored in `.col` binary files used by a racing simulation game. Supports both **Windows** and **Linux**.
 
-<img width="630" height="830" alt="preview" src="https://github.com/user-attachments/assets/227dd213-6473-47b7-abfc-4a2e11f2a739" />
+<img width="630" height="830" alt="preview" src="https://github.com/user-attachments/assets/0d0f0056-dd34-43a2-8277-78e108288ae5" />
  
 ---
  
